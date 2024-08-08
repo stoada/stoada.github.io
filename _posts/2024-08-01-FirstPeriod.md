@@ -30,7 +30,7 @@ Statistical methodologies for application in areas such as Medicine, Finance, Bi
 * NEGRI, R. G.; FRERY, A.; CASACA, W.; GAMBA, P.; BHATTACHARYA, A. Unsupervised Multitemporal Tri-Class Change Detection. IEEE Transactions on Geosciences and Remote Sensing. 2024. (in press)
 
 - [Document (subscription access)](https://doi.org/)
-- [Document (pre-print)](10.36227/techrxiv.170630484.41436032/v1)
+- [Document (pre-print)](https://doi.org/10.36227/techrxiv.170630484.41436032/v1)
 - [Codes](https://github.com/rogerionegri/UTCM)
 - [Datasets](https://drive.google.com/drive/folders/1ebUcIl3MxlfoGgzm-caPhAXEXFoe5Fg8?usp=sharing)
 <br/><br/>
