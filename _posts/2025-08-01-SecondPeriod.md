@@ -9,23 +9,23 @@ tags: [time series, machine learning, artificial intelligence]
 #### Journals
 
 * DURAN, W.G.R.; MORETTIN, P.A. Identiyfing jumps in high-frequency time series by wavfelets. International Journal of Wavelets, Multiresolution and Informations Processes, Vol. 22, n. 6, 1-18.  
-- [Document (pre-print)](http://www.ime.usp.br/~pam)  
+- [Document (pre-print)](https://www.ime.usp.br/~pam)  
 <br/><br/>
 
 * PRANDINI, J.; MORETTIN, P.; CHIANN, C. (2024) The area under the normal ROC Curve. São Paulo Journal of Mathematics Sciences, Vol. 18, 1628-1649.  
-- [Document (pre-print)](http://www.ime.usp.br/~pam/)  
+- [Document (pre-print)](https://www.ime.usp.br/~pam/)  
 <br/><br/>
 
 * CHEN, Y.; MORETTIN, P.A.; CHIANN, C. (2025) Time-varying Spatio-temporal ARMA Models by Wavelets. To appear, Journal of Statistical Computation.  
-- [Document (pre-print)](http://www.ime.usp.br/~pam/)  
+- [Document (pre-print)](https://www.ime.usp.br/~pam/)  
 <br/><br/>
 
 * ALVAREZ, L.A.; CHIANN, C.; MORETTIN, P.A. (2024) Inference in parametric models with many L-moments. Em revisão, Journal of Econometrics.  
-- [Document (pre-print)](http://www.ime.usp.br/~pam/)  
+- [Document (pre-print)](https://www.ime.usp.br/~pam/)  
 <br/><br/>
 
 * DURAN, W.; TSAY, R.; MORETTIN, P. (2024) A Cramer-von Mises-type test statistic for identifying jump variations in high-frequency time series. Submetido.  
-- [Document (pre-print)](http://www.ime.usp.br/~pam/)  
+- [Document (pre-print)](https://www.ime.usp.br/~pam/)  
 <br/><br/>
 
 * FRÜHWIRTH-SCHNATTER, S.; LOPES, H.F.; HOSSZEJNI, D. Sparse Bayesian Factor Analysis When the Number of Factors Is Unknown (with Discussion). Bayesian Analysis, 20(1), March 2025, 213-344.  
@@ -45,7 +45,7 @@ tags: [time series, machine learning, artificial intelligence]
 <br/><br/>
 
 * ALENCAR, A.P.; ROCHA, F.M.M.; ALBARRACIN, O.Y.E. Clustering male homicide rates of Brazilian states: several worlds in one country. Ciência & Saúde Coletiva, 2025.  
-- [Document (open access)](http://cienciaesaudecoletiva.com.br/artigos/clustering-male-homicide-rates-of-brazilian-states-several-worlds-in-one-country/19761)  
+- [Document (open access)](https://cienciaesaudecoletiva.com.br/artigos/clustering-male-homicide-rates-of-brazilian-states-several-worlds-in-one-country/19761)  
 <br/><br/>
 
 * HOTTA, L.; TRUCIOS, C.; PEREIRA, P.L.V.; ZEVALLOS, M. Forecasting Bitcoin and Ethereum risk measures through MSGARCH models: Does the specification matter?. Brazilian Review of Finance, v. 23, 2025.  
@@ -183,7 +183,7 @@ tags: [time series, machine learning, artificial intelligence]
 <br/><br/>
 
 * SARAIVA, J.P.M.; PINHEIRO, A.S.; NEGRI, R.G. Enhancing change detection in SAR image time series through Image denoising algorithms. XXV Brazilian Symposium on Geoinformatics - GEOINFO 2025.  
-- [Document (open access)](http://mtc-m16c.sid.inpe.br/col/sid.inpe.br/mtc-m16c/2025/06.04.14.00/doc/thisInformationItemHomePage.html)  
+- [Document (open access)](https://mtc-m16c.sid.inpe.br/col/sid.inpe.br/mtc-m16c/2025/06.04.14.00/doc/thisInformationItemHomePage.html)  
 <br/><br/>
 
 * SARAIVA, J.P.M.; PINHEIRO, A.S.; NEGRI, R.G. Análise espectral aplicada à detecção de mudanças em séries de imagens SAR. CIC-UNESP-2025 (evento local para divulgação da Iniciação Científica no âmbito da Unesp), apresentação oral.  
