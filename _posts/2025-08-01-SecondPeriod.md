@@ -1,5 +1,5 @@
 ---
-title: August/2024 ― September/2025
+title: Second Period (August/2024 ― September/2025)
 date: 2025-08-22 08:40:00 -300
 categories: [submitted, published, dataset, code]
 tags: [time series, machine learning, artificial intelligence]  

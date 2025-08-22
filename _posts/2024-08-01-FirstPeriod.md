@@ -1,5 +1,5 @@
 ---
-title: August/2023 ― September/2024
+title: First Period (August/2023 ― September/2024)
 date: 2024-08-08 00:00:00 -300
 categories: [submitted, published, dataset, code]
 tags: [time series, machine learning, artificial intelligence]  
@@ -30,4 +30,3 @@ tags: [time series, machine learning, artificial intelligence]
 
 [comment]: - [Codes](https://github.com/SoftwareImpacts/SIMPAC-2023-185)
 
-#### TODO
